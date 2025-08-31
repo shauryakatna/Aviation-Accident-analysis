@@ -57,18 +57,7 @@ Dataset - Airplane Crashes and Fatalities since 1908
         -Ground            22
         -Summary          390
 
-    :Creator:  Sauro Grandi
 
-    :Date: September, 2016
-
-
-
-
-STEPS INVOLVED
--------------------------------
-  1. Go to Template_Aviation.ipynb to work on the project.
-  2. The data analysis is done using two files, Dataset1 and Dataset2.
-  3. Implementation is available in Airplane Crashes (Analysis&Visualization).ipynb
 
 Install
 -------------------------------
@@ -90,6 +79,6 @@ Run
     To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
 
     To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
-    ipython notebook Template_Aviation.ipynb
+    ipython notebook Aviation_Accident_Analysis.ipynb
     
-    Goodluck!
+
