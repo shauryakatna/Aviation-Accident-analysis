@@ -83,15 +83,7 @@ Libraries used
     Seaborn
     Datetime
 
-License
---------------------------------
-    The dataset is covered by the following license: Open Database License (ODbL) v1.0
-    https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq
-    
-Contact
-----------------------------------
-    Dataset Link-  https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
-    Project Link-  https://github.com/decodrtechnologies/Data-Science/tree/master/Aviation%20Accident%20Analysis
+
 
 Run
 ------------------------------
